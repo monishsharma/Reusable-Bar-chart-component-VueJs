@@ -21,6 +21,7 @@ Say what the step will be
 
 ```
 download the repository
+cd Reusable-Bar-chart-component-VueJs-master
 npm install 
 npm run serve
 ```
